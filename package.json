@@ -1,0 +1,23 @@
+{
+  "name": "tablespoon-load",
+  "version": "0.0.1",
+  "description": "Tablespoon file loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebrelsford/tablespoon-load.git"
+  },
+  "author": "Eric Brelsford <ebrelsford@gmail.com> (http://ebrelsford.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebrelsford/tablespoon-load/issues"
+  },
+  "homepage": "https://github.com/ebrelsford/tablespoon-load#readme",
+  "dependencies": {
+    "csv2json": "^1.0.0",
+    "mapbox-file-sniff": "^0.4.0"
+  }
+}
