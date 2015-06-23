@@ -1,7 +1,7 @@
 tablespoon-load
 ===============
 
-Load data, converting it to JSON to be consumed by
+Convert various filetypes to JSON to be consumed by
 [tablespoon](https://github.com/ajam/tablespoon).
 
 
@@ -15,4 +15,7 @@ Currently supported
 TODO
 ----
 
+ * GeoJSON
+ * Shapefiles
+ * OSM
  * [KML and GPX files](https://www.npmjs.com/package/togeojson)
